@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Color Hunter",
+  "description": "Export the color palette of a website in a single click",
+  "version": "1.0.1",
+  "icons": {
+    "16": "logo2.png",
+    "32": "logo2.png",
+    "48": "logo2.png",
+    "128": "logo2.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo2.png",
+      "32": "logo2.png",
+      "48": "logo2.png",
+      "128": "logo2.png"
+    }
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
